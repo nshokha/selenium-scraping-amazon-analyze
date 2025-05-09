@@ -1,0 +1,461 @@
+,brands,model_names,cpu_models,storages,rams,operating_systems,prices,graphics,ratings,reviews
+0,HP,HP Laptop,Intel Core i5,512.0,16.0,Windows 11 Home,66.99,PCI Express,3.3,3745.0
+1,HP,HP Laptop,Ryzen 3,512.0,8.0,Windows,30.99,Integrated,4.1,3745.0
+2,Lenovo,IdeaPad,Intel Core i5,512.0,16.0,Windows 11 Home,49.99,Integrated,3.9,3745.0
+3,ASUS,Vivobook Go 14,Ryzen 3,512.0,8.0,Windows 11 Home,29.99,Integrated,4.0,3745.0
+4,Lenovo,Lenovo V15 G4,Ryzen 3,512.0,8.0,Windows 11 Home,25.99,Integrated,4.0,3745.0
+5,HP,HP Laptop,AMD Ryzen 5 5500U,512.0,16.0,Windows 11 Home,36.923,Integrated,4.1,3745.0
+6,HP,HP Laptop,Ryzen 3,512.0,8.0,Windows,30.99,Integrated,4.1,3745.0
+7,Lenovo,IdeaPad Slim 3 15IRU8,Intel Core i3,512.0,8.0,Windows 11 Home,37.75,Integrated,5.0,3745.0
+8,Lenovo,IdeaPad Slim 3,Core i3,512.0,8.0,Windows 11 Home,36.99,Integrated,4.1,3745.0
+9,BKN,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,294.0,Integrated,4.2,3745.0
+10,ASUS,Vivobook Go 15 (2023),Ryzen 5,512.0,16.0,Windows 11 Home,40.99,Integrated,3.9,3745.0
+11,Lenovo,IdeaPad,Celeron N4020,512.0,8.0,Windows 11 Home,24.99,Integrated,2.9,3745.0
+12,HP,HP Laptop,Core i3,512.0,8.0,Windows 11 Home,34.99,PCI Express,4.1,3745.0
+13,Lenovo,V15 G4 AMN,Ryzen 5,512.0,16.0,Windows 11,34.99,Integrated,4.5,3745.0
+14,HP,HP Laptop,Ryzen 3,512.0,8.0,Windows,30.99,Integrated,4.1,3745.0
+15,Lenovo,IdeaPad Slim 3,Ryzen 5,512.0,16.0,Windows 11 Home,42.49,Integrated,4.5,3745.0
+16,Lenovo,IdeaPad,Ryzen 5,512.0,16.0,Windows 11 Home,36.99,Integrated,4.0,3745.0
+17,acer,Aspire Lite,Ryzen 3 5300U,512.0,16.0,Windows 11 Home,28.99,Integrated,4.0,3745.0
+18,HP,Victus Gaming Laptop,AMD Ryzen 5 5600X,512.0,16.0,Windows 11 Home,62.99,PCI Express,4.1,3745.0
+19,acer,Z8-284,Celeron,256.0,8.0,Windows 11 Home,17.99,Integrated,3.1,3745.0
+20,HP,HP Laptop,Core i3,512.0,8.0,Windows 11 Home,38.39,Integrated,4.1,3745.0
+21,Lenovo,LOQ,Intel Core i7,512.0,24.0,Windows 11,99.99,PCI Express,3.7,3745.0
+22,ASUS,ASUS Vivobook 14,Core i3,512.0,8.0,Windows 11 Home,32.99,Integrated,3.8,3745.0
+23,acer,Aspire 3,Celeron,512.0,8.0,Windows 11 Home,22.99,Integrated,3.4,3745.0
+24,acer,Aspire 3 Spin14,Core i3,512.0,8.0,Windows 11 Home,40.8,Integrated,4.2,3745.0
+25,Lenovo,IdeaPad Slim 3 15IRU8,Intel Core i3,512.0,8.0,Windows 11 Home,37.75,Integrated,5.0,3745.0
+26,Lenovo,IdeaPad Slim 3,Core i3,512.0,8.0,Windows 11 Home,36.99,Integrated,4.1,3745.0
+27,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.49,Integrated,4.2,3745.0
+28,Lenovo,Ryzen 5,Ryzen 5,512.0,16.0,Windows 11 Home,43.99,Integrated,3.7,3745.0
+29,Lenovo,IdeaPad 3 15IAU7,Core i3,512.0,8.0,Windows 11 Home,34.475,Integrated,3.9,3745.0
+30,HP,HP Laptop,Intel Core i5,512.0,16.0,Windows 11 Home,50.99,Integrated,4.0,3745.0
+31,JIO,JioBook,Others,64.0,4.0,JioOS,12.99,Integrated,3.0,3745.0
+32,Lenovo,IdeaPad,Intel Core i5,512.0,16.0,Windows 11 Home,49.99,Integrated,3.9,3745.0
+33,HP,HP 15s,Core i5,512.0,16.0,Windows 11 Home,43.99,Integrated,4.0,3745.0
+34,Lenovo,IdeaPad Slim 3,Core i3,512.0,8.0,Windows 11 Home,36.99,Integrated,4.1,3745.0
+35,HP,HP Laptop,Ryzen 3,512.0,8.0,Windows,30.99,Integrated,4.1,3745.0
+36,Lenovo,IdeaPad,Ryzen 5,512.0,16.0,Windows 11 Home,36.99,Integrated,4.0,3745.0
+37,ASUS,ASUS Vivobook 15,Core i3,512.0,16.0,Windows 11 Home,39.99,Integrated,4.1,3745.0
+38,HP,HP Laptop,Athlon,256.0,8.0,Windows 11 Home,22.95,Integrated,4.5,3745.0
+39,HP,HP 255,Ryzen 5,512.0,8.0,DOS,28.997,Integrated,2.7,3745.0
+40,Dell,Inspiron,Core i3,512.0,8.0,Windows 11 Home,37.49,Integrated,3.9,3745.0
+41,ASUS,TUF Gaming F15,AMD Ryzen 7,512.0,16.0,Windows 11 Home,64.3,PCI Express,3.9,3745.0
+42,HP,HP Laptop,AMD Ryzen 5 5500U,512.0,16.0,Windows 11 Home,36.923,Integrated,4.1,3745.0
+43,Lenovo,IdeaPad,Ryzen 3,512.0,8.0,Windows 11 Home,30.99,Integrated,4.0,3745.0
+44,Lenovo,IdeaPad 1 14IGL7,Celeron N4020,512.0,8.0,Windows 11 Home,24.79,Integrated,3.7,3745.0
+45,acer,Aspire 3,Celeron,256.0,8.0,Windows 11 Home,21.99,Integrated,3.4,3745.0
+46,ASUS,Vivobook 15,Core i3-1215U,512.0,8.0,Windows 11 Home,32.78,Integrated,4.0,3745.0
+47,acer,Aspire Lite,Ryzen 3 5300U,512.0,8.0,Windows 11 Home,26.99,Integrated,4.0,3745.0
+48,HP,HP Laptop,Ryzen 5,512.0,16.0,Windows 11 Home,69.99,PCI Express,4.5,3745.0
+49,Lenovo,Lenovo V15,Core i7-1255U,512.0,16.0,Windows 11 Home,48.49,Integrated,3.4,3745.0
+50,Lenovo,IdeaPad,Core i3,512.0,8.0,"Windows 11 Home 64, English",33.53,Integrated,3.9,3745.0
+51,ASUS,Vivobook,Core i3,512.0,8.0,Windows 11 Home,32.99,Integrated,3.6,3745.0
+52,HP,HP 255 G9,Ryzen 3 3250U,512.0,8.0,DOS,23.99,Integrated,2.0,3745.0
+53,HP,HP 15s,Core i5,512.0,16.0,Windows 11 Home,43.99,Integrated,4.0,3745.0
+54,HP,HP Laptop,Ryzen 5,512.0,8.0,Windows 11 Home,37.99,Integrated,3.4,3745.0
+55,Verilux,HP Laptop,Core i3,512.0,16.0,"Windows, Mac OS",1.282,Integrated,4.0,3745.0
+56,Lenovo,IdeaPad Slim 3 15IRU8,Intel Core i3,512.0,8.0,Windows 11 Home,37.75,Integrated,5.0,3745.0
+57,Lenovo,IdeaPad,Core i3,512.0,8.0,Windows 11,36.399,Integrated,3.9,3745.0
+58,Dell,Inspiron,Core i5,1000.0,16.0,Windows 11 Home,58.6,Integrated,3.5,3745.0
+59,acer,Aspire Lite,Ryzen 5,512.0,16.0,Windows 11 Home,34.49,Integrated,4.0,3745.0
+60,HP,HP Laptop,Intel Core i3,512.0,8.0,Windows 11 Home,33.99,Integrated,3.9,3745.0
+61,HP,HP Laptop,AMD Ryzen 5 5500U,512.0,16.0,Windows 11 Home,36.923,Integrated,4.1,3745.0
+62,HP,15s-fy5010TU,Intel Core i3,256.0,8.0,Windows 11 Home,31.999,Integrated,4.1,3745.0
+63,Primebook,Primebook S 4G,MediaTek MT8183,128.0,4.0,PrimeOS,15.49,Integrated,4.5,3745.0
+64,ASUS,Vivobook 15,Core i3-1215U,512.0,8.0,Windows 11 Home,32.78,Integrated,4.0,3745.0
+65,Apple,MacBook Air,Core M Family,256.0,8.0,macOS 10.14 Mojave,60.99,Integrated,4.6,3745.0
+66,HP,15-fa1319X,Intel Core i5,512.0,16.0,Windows 11 Home,78.99,Integrated,3.9,3745.0
+67,Lenovo,LOQ,Ryzen 5,512.0,24.0,Windows 11 Home,66.49,PCI Express,3.3,3745.0
+68,Lenovo,Lenovo V15 G2 IJL,Celeron,256.0,8.0,Windows 11 Home,21.99,Integrated,3.9,3745.0
+69,Lenovo,Legion 7,Intel Core i9,1000.0,32.0,Windows 11 Home,299.0,PCI Express,4.4,3745.0
+70,Lenovo,IdeaPad,Ryzen 5,512.0,16.0,Windows 11 Home,36.99,Integrated,4.0,3745.0
+71,Lenovo,Ryzen 5,Ryzen 5,512.0,16.0,Windows 11 Home,43.99,Integrated,3.7,3745.0
+72,Primebook,Primebook 4G,MediaTek MT8183,64.0,4.0,PrimeOS,12.99,Integrated,4.5,3745.0
+73,Lenovo,HP Laptop,Intel Core i3,512.0,16.0,Windows 11 Home,32.81,Integrated,4.8,3745.0
+74,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,299.0,Integrated,4.3,3745.0
+75,Lenovo,IdeaPad Slim 3,Intel Core i7,512.0,16.0,Windows 11 Home,67.99,Integrated,4.5,3745.0
+76,Tygot,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,329.0,Integrated,4.4,3745.0
+77,Apple,MacBook Air,Others,512.0,8.0,Windows 11 Home,83.99,Integrated,4.5,3745.0
+78,HP,HP Laptop,Core i5,512.0,16.0,Windows 11 Home,58.99,Integrated,3.7,3745.0
+79,STRIFF,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,249.0,Integrated,4.3,3745.0
+80,HP,15s-fy5010TU,Intel Core i3,256.0,8.0,Windows 11 Home,31.999,Integrated,4.1,3745.0
+81,Lenovo,IdeaPad,Celeron N4020,512.0,8.0,Windows 11 Home,24.99,Integrated,2.9,3745.0
+82,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,4.299,Integrated,4.4,3745.0
+83,Lenovo,IdeaPad Slim 3 15IRU8,Intel Core i3,512.0,8.0,Windows 11 Home,37.75,Integrated,5.0,3745.0
+84,HP,HP Laptop,AMD Ryzen 5 5500U,512.0,16.0,Windows 11 Home,36.923,Integrated,4.1,3745.0
+85,Chuwi,CoreBook X pro i5 12th Gen,Others,512.0,16.0,Windows,32.99,Integrated,3.6,3745.0
+86,acer,Aspire Lite,Core i5-12450H,512.0,16.0,Windows 11 Home,48.99,Integrated,4.0,3745.0
+87,HP,245 G9,Ryzen 3 3250U,512.0,8.0,Windows 11 Pro,24.89,Integrated,3.4,3745.0
+88,Lenovo,IdeaPad,Core i9,1000.0,32.0,Windows 11 Home,299.0,PCI Express,4.2,3745.0
+89,Lenovo,IdeaPad Slim,Intel Core i7,512.0,16.0,Windows 11 Home,64.49,Integrated,4.0,3745.0
+90,Primebook,Primebook 4G,MediaTek MT8183,64.0,4.0,PrimeOS,12.99,Integrated,4.5,3745.0
+91,Lenovo,LOQ,Intel Core i5,512.0,16.0,Windows 11,86.99,PCI Express,4.1,3745.0
+92,Lenovo,16-xf0060AX,Ryzen 7,1000.0,16.0,Windows 11 Home,299.0,PCI Express,3.8,3745.0
+93,Tygot,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,329.0,Integrated,4.4,3745.0
+94,Samsung,Galaxy Book2 Pro,Core i7,512.0,16.0,Windows 11 Home,95.999,Integrated,3.9,3745.0
+95,Lenovo,IdeaPad,Ryzen 5,512.0,16.0,Windows 11 Home,36.99,Integrated,4.0,3745.0
+96,Lenovo,Lenovo V15 G4,Ryzen 7,512.0,16.0,Windows 11,40.99,Integrated,4.0,3745.0
+97,Lenovo,IdeaPad,Ryzen 5,512.0,16.0,Windows 11 Home,36.99,Integrated,4.0,3745.0
+98,Lenovo,IdeaPad 3 15IAU7,Core i3,512.0,8.0,Windows 11 Home,34.475,Integrated,3.9,3745.0
+99,Lenovo,IdeaPad Slim,Intel Core i7,512.0,16.0,Windows 11 Home,64.49,Integrated,4.0,3745.0
+100,Samsung,Samsung Galaxy Book4,Others,512.0,16.0,Windows 11 Home,53.94,Integrated,4.3,3745.0
+101,Primebook,Primebook S 4G,MediaTek MT8183,128.0,4.0,PrimeOS,15.49,Integrated,4.5,3745.0
+102,HP,HP Laptop,Ryzen 5,512.0,16.0,Windows 11 Home,42.99,Integrated,3.2,3745.0
+103,HP,15s-fy5010TU,Intel Core i3,256.0,8.0,Windows 11 Home,31.999,Integrated,4.1,3745.0
+104,Lenovo,LOQ,Intel Core i5,512.0,16.0,Windows 11 Home,74.99,PCI Express,4.0,3745.0
+105,Lenovo,V15,Celeron,512.0,8.0,Windows,22.99,Integrated,3.8,3745.0
+106,HP,HP Laptop,Ryzen 3,512.0,16.0,Windows 11 Home,30.69,Integrated,3.9,3745.0
+107,ASUS,Vivobook,Core i3,512.0,8.0,Windows 11 Home,32.99,Integrated,3.6,3745.0
+108,ASUS,Vivobook 15,Core i3-1215U,512.0,8.0,Windows 11 Home,32.78,Integrated,4.0,3745.0
+109,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.49,Integrated,4.2,3745.0
+110,Lenovo,IdeaPad Slim 3 15IRU8,Intel Core i3,512.0,8.0,Windows 11 Home,37.75,Integrated,5.0,3745.0
+111,Lenovo,IdeaPad,Ryzen 5,512.0,16.0,Windows 11 Home,36.99,Integrated,4.0,3745.0
+112,Dyazo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,349.0,Integrated,4.3,3745.0
+113,Lenovo,V15 GEN 4,Ryzen 3,512.0,8.0,Windows,27.89,Integrated,3.6,3745.0
+114,Dell,Inspiron,Core i5,512.0,16.0,Windows 11 Home,57.49,Integrated,3.5,3745.0
+115,HP,HP ZBook Firefly 16 inch G11 Mobile Workstation PC,Intel Core Ultra 7,1000.0,32.0,Windows 11 Professional,299.0,Integrated,5.0,3745.0
+116,ASUS,ASUS TUF Gaming A15,Ryzen 7,512.0,16.0,Windows 11 Home,94.99,Integrated,4.2,3745.0
+117,acer,Aspire 3,Core i5,512.0,16.0,Windows 11 Home,42.98,Integrated,4.2,3745.0
+118,Lenovo,V15,Intel Core i5,16.0,16.0,Windows 11 Home,42.7,Integrated,3.9,3745.0
+119,ASUS,ASUS Vivobook 16,Intel Core 7,512.0,16.0,Windows 11 Home,89.99,Integrated,3.0,3745.0
+120,Lenovo,Ryzen 5,Ryzen 5,512.0,16.0,Windows 11 Home,43.99,Integrated,3.7,3745.0
+121,Lenovo,IdeaPad 3 15IAU7,Core i3,512.0,8.0,Windows 11 Home,34.475,Integrated,3.9,3745.0
+122,HP,HP Laptop 15s-eq2182AU,AMD Ryzen 5 5500U,512.0,16.0,Windows 11 Home,44.0,Integrated,4.0,3745.0
+123,MSI,Modern 14 C13M-437IN,Core i5,512.0,8.0,Windows 11 Home,37.99,Integrated,3.4,3745.0
+124,ASUS,ASUS Vivobook Go 14,Ryzen 5,512.0,16.0,Windows 11 Home,41.89,Integrated,4.4,3745.0
+125,HP,HP Laptop,Ryzen 5,512.0,8.0,Windows 11 Home,37.99,Integrated,3.4,3745.0
+126,Lenovo,LOQ,Ryzen 7,512.0,16.0,Windows 11 Home,81.99,PCI Express,4.3,3745.0
+127,HP,HP Laptop,Intel Core i7,512.0,16.0,Windows 11 Home,72.419,Integrated,1.0,3745.0
+128,Dell,Inspiron,Core i3,512.0,8.0,Windows 11 Home,36.99,Integrated,3.9,3745.0
+129,FUTOPIA,NU14U3CNC43BN-MB,Celeron N4020,128.0,4.0,windows home 11,10.999,Integrated,3.6,3745.0
+130,Lenovo,IdeaPad Slim 3,Core i5,512.0,16.0,Windows 11 Home,58.99,Integrated,5.0,3745.0
+131,Lenovo,IdeaPad,Intel Core i5,512.0,16.0,Windows 11 Home,52.25,Integrated,3.9,3745.0
+132,Verilux,HP Laptop,Core i3,512.0,16.0,"Windows, Mac OS",1.282,Integrated,4.0,3745.0
+133,Lenovo,IdeaPad Slim 3 15IRU8,Intel Core i3,512.0,8.0,Windows 11 Home,37.75,Integrated,5.0,3745.0
+134,Lenovo,IdeaPad,Core i3,512.0,8.0,"Windows 11 Home 64, English",33.53,Integrated,3.9,3745.0
+135,HP,255 G9,Ryzen 3 3250U,512.0,8.0,DOS,24.49,Integrated,2.7,3745.0
+136,EDNITA,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,198.0,Integrated,4.3,3745.0
+137,Acer,Aspire 3,Core i3,512.0,16.0,Windows 11 Home,33.99,Integrated,4.5,3745.0
+138,Dell,Latitude 3440,Core i3-1215U,512.0,8.0,DOS,28.57,Integrated,2.6,3745.0
+139,Sounce,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,99.0,Integrated,4.2,3745.0
+140,HP,HP Victus,Intel Core i7,1000.0,16.0,Windows 11 Home,91.49,PCI Express,3.4,3745.0
+141,ZEBRONICS,HP Laptop,Core i3,512.0,16.0,"pc, mac, laptop",299.0,Integrated,4.0,3745.0
+142,Portronics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,998.0,Integrated,4.2,3745.0
+143,Lenovo,IdeaPad,Ryzen 5,512.0,16.0,Windows 11 Home,36.99,Integrated,4.0,3745.0
+144,Lenovo,Ryzen 5,Ryzen 5,512.0,16.0,Windows 11 Home,43.99,Integrated,3.7,3745.0
+145,Lenovo,IdeaPad 1 15AMN7,Ryzen 3,512.0,8.0,Windows 11 Home,36.6,Integrated,3.6,3745.0
+146,Lenovo,IdeaPad 3,Core i3,512.0,16.0,"Windows 11 Home 64, English",34.2,Integrated,4.1,3745.0
+147,ZEBRONICS,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,449.0,Integrated,4.3,3745.0
+148,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,799.0,Integrated,3.9,135.0
+149,Dell,Inspiron,Core i3,512.0,8.0,Windows 11 Home,36.43,Integrated,3.9,3745.0
+150,HP,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,35.99,Integrated,4.0,3745.0
+151,Lapcare,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,649.0,Integrated,4.0,3745.0
+152,Lenovo,Lenovo V15 G4 AMD Athlon Silver 7120U Laptop 8…,Core i3,512.0,16.0,Windows 11 Pro,25.99,Integrated,2.6,3745.0
+153,Lenovo,IdeaPad Slim 5,AMD Ryzen 7,512.0,16.0,Windows 11 Home,62.19,Integrated,4.0,3745.0
+154,Lenovo,IdeaPad,Intel Core i5,512.0,16.0,Windows 11 Home,49.99,Integrated,3.9,3745.0
+155,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.49,Integrated,4.2,3745.0
+156,Lenovo,IdeaPad Slim 3 15IRU8,Intel Core i3,512.0,8.0,Windows 11 Home,37.75,Integrated,5.0,3745.0
+157,Lenovo,IdeaPad Slim 3,Core i3,512.0,8.0,Windows 11 Home,36.99,Integrated,4.1,3745.0
+158,Lenovo,V15,Core i3,512.0,16.0,Windows 11 Pro,32.94,Integrated,3.7,3745.0
+159,Sounce,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,149.0,Integrated,4.2,3745.0
+160,ASUS,ASUS TUF Gaming F15,Intel Core i7,512.0,16.0,Windows 11 Home,94.99,Integrated,4.5,3745.0
+161,ASUS,ASUS Vivobook 16X,Intel Core i5,512.0,16.0,Windows 11 Home,57.99,Integrated,3.5,3745.0
+162,HP,HP Laptop,Ryzen 9,1000.0,16.0,Windows 11 Home,299.0,Integrated,2.9,3745.0
+163,ASUS,ASUS Vivobook 16X,Intel Core i5,512.0,16.0,Windows 11 Home,68.99,Integrated,3.5,3745.0
+164,HP,HP Laptop,Ryzen 5,512.0,16.0,Windows 11,37.49,Integrated,3.9,3745.0
+165,Lenovo,IdeaPad Slim 3,Ryzen 5,512.0,16.0,Windows 11 Home,42.49,Integrated,4.5,3745.0
+166,Lenovo,IdeaPad,Ryzen 5,512.0,16.0,Windows 11 Home,36.99,Integrated,4.0,3745.0
+167,Lenovo,IdeaPad,Core i3,512.0,8.0,Windows 11,36.399,Integrated,3.9,3745.0
+168,amazon basics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,249.0,Integrated,4.1,3745.0
+169,HP,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,999.0,Integrated,4.3,3745.0
+170,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,589.0,Integrated,4.0,3745.0
+171,ZEBRONICS,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,249.0,Integrated,3.7,3745.0
+172,Samsung,Samsung Galaxy Book4,Intel Core i5,512.0,16.0,Windows 11 Home,54.35,Integrated,4.0,3745.0
+173,Dell,G Series,Core i5,512.0,16.0,Windows 11 Home,67.99,PCI Express,3.9,3745.0
+174,amazon basics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,213.0,Integrated,4.2,3745.0
+175,Dyazo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,299.0,Integrated,4.2,3745.0
+176,Chuwi,CoreBook X pro i5 12th Gen,Others,512.0,16.0,Windows,32.99,Integrated,3.6,3745.0
+177,ASUS,ASUS Vivobook 15,Core i3,512.0,8.0,Windows 11 Home,36.99,PCI Express,4.3,3745.0
+178,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.49,Integrated,4.2,3745.0
+179,Lenovo,IdeaPad,Core i3,512.0,16.0,"Windows 11 Home 64, English",33.9,Integrated,3.9,3745.0
+180,Lenovo,IdeaPad Slim 3 15IRU8,Intel Core i3,512.0,8.0,Windows 11 Home,37.75,Integrated,5.0,3745.0
+181,MSI,CreatorPro X17 HX A13VKS,Core i9,4000.0,64.0,Windows 11 Pro,299.0,PCI Express,3.5,3745.0
+182,ASUS,ASUS Vivobook 15,Core i5,512.0,16.0,Windows 11 Home,53.99,Integrated,3.0,3745.0
+183,Portronics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,498.0,Integrated,4.2,3745.0
+184,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,545.0,Integrated,4.3,3745.0
+185,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,299.0,Integrated,4.3,3745.0
+186,Logitech,HP Laptop,Core i3,512.0,16.0,"mac os, Chrome OS, Windows 8, Windows 7, Windows 10",645.0,Integrated,4.3,3745.0
+187,Dyazo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,349.0,Integrated,4.3,3745.0
+188,PALAK,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,379.0,Integrated,4.5,3745.0
+189,Lenovo,IdeaPad Slim 3,Core i3,512.0,8.0,Windows 11 Home,36.99,Integrated,4.1,3745.0
+190,Lenovo,Ryzen 5,Ryzen 5,512.0,16.0,Windows 11 Home,43.99,Integrated,3.7,3745.0
+191,amazon basics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,949.0,Integrated,4.3,3745.0
+192,amazon basics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,260.0,Integrated,4.1,3745.0
+193,ZEBRONICS,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,229.0,Integrated,3.4,3745.0
+194,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.149,Integrated,4.2,3745.0
+195,LS LAPSTER Quality Assured,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,139.0,Integrated,3.3,3745.0
+196,Ant Plus,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,669.0,Integrated,3.7,3745.0
+197,DIVIJA STORE,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,349.0,Integrated,5.0,3745.0
+198,Logitech,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.995,Integrated,4.2,3745.0
+199,ASUS,ASUS Zenbook S 14,Intel Core Ultra 7,1000.0,32.0,Windows 11 Home,299.0,Integrated,4.5,3745.0
+200,acer,Aspire 3,Core i5,512.0,16.0,Windows 11 Home,42.98,Integrated,4.2,3745.0
+201,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.49,Integrated,4.2,3745.0
+202,Lenovo,IdeaPad Slim 3,Intel Core i5,512.0,16.0,Windows 11 Home,57.89,Integrated,4.5,3745.0
+203,ASUS,ASUS Vivobook,Core i5,512.0,8.0,Windows 11 Home,50.99,Integrated,4.1,3745.0
+204,ASUS,ASUS Vivobook 16X OLED,Intel Core i7,512.0,16.0,Windows 11 Home,69.99,Integrated,2.8,3745.0
+205,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,289.0,Integrated,4.2,3745.0
+206,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,299.0,Integrated,4.3,3745.0
+207,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,299.0,Integrated,4.3,3745.0
+208,ZEBRONICS,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,399.0,Integrated,4.3,3745.0
+209,Logitech,HP Laptop,Core i3,512.0,16.0,mac,799.0,Integrated,4.3,3745.0
+210,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,279.0,Integrated,4.3,3745.0
+211,EvoFox,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,699.0,Integrated,4.1,3745.0
+212,Lenovo,IdeaPad Slim 3 15IRU8,Intel Core i3,512.0,8.0,Windows 11 Home,37.75,Integrated,5.0,3745.0
+213,Lenovo,IdeaPad Slim 3,Core i3,512.0,8.0,Windows 11 Home,36.99,Integrated,4.1,3745.0
+214,ZEBRONICS,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,549.0,Integrated,3.9,3745.0
+215,Tukzer,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,339.0,Integrated,4.3,3745.0
+216,ZEBRONICS,HP Laptop,Core i3,512.0,16.0,"pc, mac, laptop",299.0,Integrated,4.0,3745.0
+217,Dyazo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,399.0,Integrated,4.3,3745.0
+218,STRIFF,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,129.0,Integrated,3.6,3745.0
+219,Cubiker,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,498.0,Integrated,4.0,3745.0
+220,Portronics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,298.0,Integrated,3.9,3745.0
+221,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,259.0,Integrated,4.2,3745.0
+222,ASUS,ASUS Vivobook 15,Core i3,512.0,16.0,Windows 11 Home,39.99,Integrated,4.1,3745.0
+223,Lenovo,IdeaPad Slim 5,Core i5,512.0,16.0,Windows 11 Home,57.15,Integrated,5.0,3745.0
+224,TABLE MAGIC,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,2.35,Integrated,3.4,3745.0
+225,HP,HP Laptop,Core i5,512.0,16.0,Windows 11 Home,58.99,Integrated,3.7,3745.0
+226,HP,HP Laptop,Ryzen 5,512.0,16.0,Windows 11 Home,69.99,PCI Express,4.5,3745.0
+227,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,259.0,Integrated,4.2,3745.0
+228,Sounce,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,299.0,Integrated,4.0,3745.0
+229,Dyazo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,899.0,Integrated,4.2,3745.0
+230,LS LAPSTER Quality Assured,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,99.0,Integrated,4.2,3745.0
+231,amazon basics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.299,Integrated,4.6,3745.0
+232,cimetech,HP Laptop,Core i3,512.0,16.0,"Linux, Chrome OS, Windows, Mac OS",996.0,Integrated,4.0,3745.0
+233,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,899.0,Integrated,4.2,3745.0
+234,Florican,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,269.0,Integrated,4.3,3745.0
+235,Lenovo,IdeaPad Slim 5,Intel Core i5,512.0,16.0,Windows 11 Home,66.49,Integrated,3.8,3745.0
+236,ASUS,ASUS Zenbook 14,Intel Core Ultra 5,1000.0,16.0,Windows 11 Home,299.0,Integrated,2.0,3745.0
+237,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,799.0,Integrated,3.9,3745.0
+238,Amkette,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.099,Integrated,4.3,3745.0
+239,PLIXIO,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,2.298,Integrated,4.4,3745.0
+240,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,99.0,Integrated,4.0,3745.0
+241,ZEBRONICS,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,499.0,Integrated,4.0,3745.0
+242,Klenzmo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,370.0,Integrated,4.3,3745.0
+243,Zaptec,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,178.0,Integrated,4.3,3745.0
+244,amazon basics,HP Laptop,Core i3,512.0,16.0,Windows 10,179.0,Integrated,4.2,3745.0
+245,ASUS,ASUS Vivobook 15,Intel Core i7,512.0,16.0,Windows 11 Home,63.99,Integrated,2.2,3745.0
+246,Lenovo,Yoga Slim 7,Intel Core i5,512.0,16.0,Windows 11 Home,80.0,Integrated,3.7,3745.0
+247,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.49,Integrated,4.2,3745.0
+248,Chuwi,Corebook X I3-1220P,Others,512.0,8.0,Windows,24.99,Integrated,3.6,3745.0
+249,ASUS,ASUS Vivobook 16,Intel Core Ultra 5,512.0,16.0,Windows 11 Home,75.99,Integrated,1.0,3745.0
+250,amazon basics,HP Laptop,Core i3,512.0,16.0,Windows 10,179.0,Integrated,4.2,3745.0
+251,STRIFF,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,292.0,Integrated,4.1,3745.0
+252,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,299.0,Integrated,4.3,3745.0
+253,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,285.0,Integrated,4.2,3745.0
+254,Tukzer,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,299.0,Integrated,4.2,3745.0
+255,Tukzer,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,299.0,Integrated,4.2,3745.0
+256,Crucial,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.439,Integrated,4.5,135.0
+257,STRIFF,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,349.0,Integrated,4.3,3745.0
+258,Lenovo,IdeaPad Slim 5,Core i5,1000.0,16.0,Windows 11 Home,77.99,Integrated,3.9,3745.0
+259,MSI,Stealth 14 AI Studio,Core i7,1000.0,32.0,Windows 11 Home,299.0,PCI Express,3.2,3745.0
+260,ZEBRONICS,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,999.0,Integrated,3.6,3745.0
+261,Lapcare,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,999.0,Integrated,4.4,3745.0
+262,Maxelon,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.449,Integrated,4.1,3745.0
+263,TARKAN,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,499.0,Integrated,4.1,3745.0
+264,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,512.0,Integrated,4.0,3745.0
+265,Maxelon,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.499,Integrated,4.2,3745.0
+266,STRIFF,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,129.0,Integrated,4.2,3745.0
+267,Arctic Fox,HP Laptop,Core i3,512.0,16.0,"Compatible with Windows 8/10/11, Mac OS, iOS 13 and above, android",649.0,Integrated,4.3,3745.0
+268,Lenovo,IdeaPad Slim,Intel Core i7,512.0,16.0,Windows 11 Home,64.49,Integrated,4.0,3745.0
+269,Lenovo,LOQ,Intel Core i5,512.0,16.0,Windows 11,69.99,PCI Express,4.0,3745.0
+270,TABLE MAGIC,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,2.73,Integrated,4.4,2250.0
+271,Lenovo,LOQ,Intel Core i5,512.0,16.0,Windows 11,72.99,PCI Express,3.4,3745.0
+272,Lenovo,IdeaPad Slim 5,Core i5,1000.0,16.0,Windows 11 Home,84.49,Integrated,3.9,3745.0
+273,Portronics,HP Laptop,Core i3,512.0,16.0,"Linux, Windows XP, Windows 7",539.0,Integrated,4.2,3745.0
+274,amazon basics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,459.0,Integrated,4.4,3745.0
+275,AirCase,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,199.0,Integrated,4.1,3745.0
+276,Lenovo,IdeaPad Slim,Intel Core i7,512.0,16.0,Windows 11 Home,64.49,Integrated,4.0,3745.0
+277,Lenovo,IdeaPad Slim 3,Core i3,512.0,8.0,Windows 11 Home,36.99,Integrated,4.1,3745.0
+278,Lenovo,LOQ,Intel Core i5,512.0,16.0,Windows 11,69.99,PCI Express,4.0,3745.0
+279,Lenovo,IdeaPad,Core i9,1000.0,32.0,Windows 11 Home,299.0,PCI Express,4.2,3745.0
+280,Lenovo,IdeaPad,Ryzen 5,512.0,16.0,Windows 11 Home,36.99,Integrated,4.0,3745.0
+281,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.799,Integrated,3.3,3745.0
+282,VANTRO,RS-NCPI-22,Core i3,512.0,16.0,Windows 11 Home,2.479,Integrated,4.4,3745.0
+283,Sounce,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,299.0,Integrated,4.0,3745.0
+284,Artis,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.099,Integrated,3.6,3745.0
+285,ABRALE,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,949.0,Integrated,4.4,3745.0
+286,MSI,Thin 15,Core i7,512.0,16.0,Windows 11 Home,65.8,PCI Express,3.9,3745.0
+287,ASUS,ASUS Vivobook 16,Intel Core Ultra 5,512.0,16.0,Windows 11 Home,75.99,Integrated,1.0,3745.0
+288,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,495.0,Integrated,4.2,3745.0
+289,PLIXIO,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,3.999,Integrated,4.4,3745.0
+290,Ant Esports,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,999.0,Integrated,3.8,3745.0
+291,Honeywell,HP Laptop,Core i3,512.0,16.0,Linux,449.0,Integrated,4.3,3745.0
+292,Crucial,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,2.591,Integrated,4.5,135.0
+293,Portronics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,298.0,Integrated,4.2,3745.0
+294,STRIFF,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,279.0,Integrated,4.2,3745.0
+295,Dyazo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,279.0,Integrated,4.3,3745.0
+296,MSI,Modern 15 H AI,Core i7,512.0,16.0,Windows 11 Home,63.8,Integrated,3.4,3745.0
+297,Lenovo,IdeaPad Slim 5,Core i5,512.0,16.0,Windows 11 Home,72.99,Integrated,3.1,3745.0
+298,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.49,Integrated,4.2,3745.0
+299,MSI,Thin 15,Core i5,1000.0,16.0,Windows 11 Home,74.99,PCI Express,3.4,3745.0
+300,MSI,Cyborg 15 AI,Core i5,1000.0,16.0,Windows 11 Home,89.99,PCI Express,4.5,3745.0
+301,STRIFF,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,279.0,Integrated,4.2,3745.0
+302,Dyazo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,279.0,Integrated,4.3,3745.0
+303,Portronics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,198.0,Integrated,4.0,3745.0
+304,Lenovo,LOQ,Intel Core i5,512.0,16.0,Windows 11,86.99,PCI Express,4.1,3745.0
+305,ASUS,ASUS Vivobook 15,Core i3,512.0,16.0,Windows 11 Home,39.99,Integrated,4.1,3745.0
+306,Lenovo,LOQ,Intel Core i5,512.0,16.0,Windows 11 Home,74.99,PCI Express,4.0,3745.0
+307,Primebook,Primebook S 4G,MediaTek MT8183,128.0,4.0,PrimeOS,15.49,Integrated,4.5,3745.0
+308,Cosmic Byte,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.599,Integrated,3.9,3745.0
+309,Amkette,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,389.0,Integrated,4.3,3745.0
+310,amazon basics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.999,Integrated,4.3,3745.0
+311,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.299,Integrated,4.6,3745.0
+312,Dell,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.189,Integrated,3.9,3745.0
+313,Lenovo,LOQ,Ryzen 7,512.0,16.0,Windows 11 Home,81.99,PCI Express,4.3,3745.0
+314,Lenovo,IdeaPad,Core i9,1000.0,32.0,Windows 11 Home,299.0,PCI Express,4.2,3745.0
+315,amazon basics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,499.0,Integrated,4.5,3745.0
+316,LIRAMARK,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,99.0,Integrated,4.2,3745.0
+317,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.749,Integrated,3.5,3745.0
+318,Honeywell,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,849.0,Integrated,4.0,3745.0
+319,Logitech,HP Laptop,Core i3,512.0,16.0,Windows and Mac,699.0,Integrated,4.4,3745.0
+320,Portronics,HP Laptop,Core i3,512.0,16.0,"Windows, macOS, Linux",294.0,Integrated,4.2,3745.0
+321,Portronics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,579.0,Integrated,4.3,3745.0
+322,Logitech,HP Laptop,Core i3,512.0,16.0,Mac,1.145,Integrated,4.4,3745.0
+323,MSI,Thin 15,Core i5,512.0,16.0,Windows 11 Home,63.583,PCI Express,4.0,3745.0
+324,MSI,Cyborg 15,Intel Core i5,512.0,16.0,Windows 11 Home,69.49,PCI Express,4.5,3745.0
+325,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,4.299,Integrated,4.4,3745.0
+326,Lenovo,LOQ,Intel Core i5,512.0,24.0,Windows 11,63.201,PCI Express,4.1,3745.0
+327,acer,Swift Go 14,Unknown,512.0,16.0,Windows 11 Home,74.99,Integrated,3.0,3745.0
+328,Sounce,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,99.0,Integrated,4.0,3745.0
+329,amazon basics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,999.0,Integrated,4.1,3745.0
+330,THEMISTO - built with passion,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,249.0,Integrated,4.0,3745.0
+331,BARROT,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,399.0,Integrated,4.1,3745.0
+332,Storite,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,298.0,Integrated,4.0,3745.0
+333,Lenovo,ADP-45DW H,Core i3,512.0,16.0,Windows 11 Home,1.049,Integrated,4.2,3745.0
+334,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,299.0,Integrated,3.9,3745.0
+335,Tukzer,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,449.0,Integrated,4.1,3745.0
+336,MSI,Cyborg 15 AI,Core i7,1000.0,16.0,Windows 11 Home,95.161,PCI Express,3.1,3745.0
+337,Lenovo,LOQ,Intel Core i5,512.0,16.0,Windows 11,86.99,PCI Express,4.1,3745.0
+338,amazon basics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,449.0,Integrated,4.4,3745.0
+339,Tukzer,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,299.0,Integrated,4.4,3745.0
+340,Laplife,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,539.0,Integrated,3.5,3745.0
+341,Portronics,HP Laptop,Core i3,512.0,16.0,Windows,578.0,Integrated,4.2,3745.0
+342,Portronics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,548.0,Integrated,3.9,3745.0
+343,amazon basics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,319.0,Integrated,4.2,3745.0
+344,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,989.0,Integrated,4.4,3745.0
+345,Sounce,HP Laptop,Core i3,512.0,16.0,"Linux, Windows, Mac OS",1.399,Integrated,4.0,3745.0
+346,Lenovo,LOQ,Ryzen 7,512.0,16.0,Windows 11 Home,90.99,PCI Express,4.3,3745.0
+347,Lenovo,LOQ,Ryzen 5,512.0,16.0,Windows 11,62.99,PCI Express,4.0,3745.0
+348,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.49,Integrated,4.2,3745.0
+349,MSI,Cyborg 14,Intel Core i5,512.0,8.0,Windows 11 Home,56.99,PCI Express,5.0,3745.0
+350,MSI,Thin 15,Core i5,512.0,8.0,Windows 11 Home,56.99,PCI Express,3.3,3745.0
+351,ELV Direct,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,697.0,Integrated,4.4,3745.0
+352,MegaStro,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,649.0,Integrated,4.4,3745.0
+353,Dell,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.399,Integrated,4.1,3745.0
+354,Logitech,HP Laptop,Core i3,512.0,16.0,"Mac,Windows",399.0,Integrated,4.4,3745.0
+355,RODMED,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,149.0,Integrated,5.0,3745.0
+356,Portronics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,798.0,Integrated,4.0,3745.0
+357,Maxelon,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.849,Integrated,4.2,3745.0
+358,Zupro,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,599.0,Integrated,3.5,3745.0
+359,Lenovo,Yoga Slim 7,Intel Core i7,1000.0,32.0,Windows 11 Home,299.0,Integrated,4.1,3745.0
+360,ASUS,ASUS Vivobook S 14,Intel Core Ultra 5,512.0,16.0,Windows 11 Home,94.99,Integrated,4.5,3745.0
+361,Artis,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,699.0,Integrated,4.1,3745.0
+362,Lenovo,HP Laptop,Core i3,512.0,16.0,Mac OS,167.0,Integrated,4.2,3745.0
+363,Artis,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,999.0,Integrated,3.4,3745.0
+364,Artis,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,699.0,Integrated,3.7,3745.0
+365,Logitech,HP Laptop,Core i3,512.0,16.0,"Chromebook,Mac,Windows",699.0,Integrated,4.4,3745.0
+366,Ceptics,PI-200C3U,Core i3,512.0,16.0,Windows 11 Home,2.199,Integrated,4.3,3745.0
+367,Logitech,HP Laptop,Core i3,512.0,16.0,"Chromebook,Mac,Windows",699.0,Integrated,4.4,3745.0
+368,ANCIARY,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,248.0,Integrated,3.6,3745.0
+369,Lenovo,Yoga Slim 7,Intel Core i7,1000.0,32.0,Windows 11 Home,299.0,Integrated,4.8,3745.0
+370,MSI,Katana A17 AI,Ryzen 9,512.0,16.0,Windows 11 Home,299.0,PCI Express,4.7,3745.0
+371,TABLE MAGIC,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,2.35,Integrated,3.4,3745.0
+372,Lenovo,IdeaPad Slim 3,Intel Core i7,512.0,16.0,Windows 11 Home,67.99,Integrated,4.5,3745.0
+373,Lenovo,Yoga Pro 7,Intel Core i7,1000.0,16.0,Windows 11 Home,299.0,PCI Express,2.0,3745.0
+374,Logitech,HP Laptop,Core i3,512.0,16.0,"Chromebook,Mac,Windows",699.0,Integrated,4.4,3745.0
+375,Ceptics,PI-200C3U,Core i3,512.0,16.0,Windows 11 Home,2.199,Integrated,4.3,3745.0
+376,ANCIARY,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,248.0,Integrated,3.6,3745.0
+377,Lenovo,HP Laptop,Core i3,512.0,16.0,"Windows,Mac",269.0,Integrated,4.4,3745.0
+378,Sounce,HP Laptop,Core i3,512.0,16.0,"Linux, Windows, Mac OS",1.099,Integrated,4.0,3745.0
+379,ABRALE,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.138,Integrated,4.8,3745.0
+380,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,279.0,Integrated,3.8,3745.0
+381,Tukzer,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,119.0,Integrated,4.2,3745.0
+382,Lenovo,IdeaPad Slim 5,Intel Core Ultra 5,512.0,16.0,Windows 11 Home,72.99,Integrated,3.9,3745.0
+383,Lenovo,LOQ,Intel Core i7,512.0,24.0,Windows 11,99.99,PCI Express,3.7,3745.0
+384,Cosmic Byte,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,710.0,Integrated,3.1,3745.0
+385,Dyazo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,249.0,Integrated,4.0,3745.0
+386,Dyazo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,499.0,Integrated,4.2,3745.0
+387,Logitech,HP Laptop,Core i3,512.0,16.0,Mac,759.0,Integrated,4.4,3745.0
+388,Ant Plus,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,669.0,Integrated,3.7,3745.0
+389,amazon basics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,213.0,Integrated,4.2,3745.0
+390,Ambrane,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,999.0,Integrated,4.4,3745.0
+391,Samsung,Galaxy Book2 Pro,Core i7,512.0,16.0,Windows 11 Home,95.999,Integrated,3.9,3745.0
+392,ASUS,ASUS Zenbook 14,Snapdragon,512.0,16.0,Windows 11 Home,99.99,Integrated,5.0,3745.0
+393,ASUS,ASUS Zenbook S 16,Ryzen AI,1000.0,32.0,Windows 11 Home,299.0,Integrated,4.5,3745.0
+394,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.49,Integrated,4.2,3745.0
+395,ASUS,ASUS Zenbook 14,Intel Core Ultra 7,1000.0,16.0,Windows 11 Home,299.0,Integrated,2.0,3745.0
+396,Lenovo,LOQ,Intel Core i5,512.0,16.0,Windows 11 Home,74.99,PCI Express,4.0,3745.0
+397,Artis,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,699.0,Integrated,4.1,3745.0
+398,Tukzer,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,299.0,Integrated,4.2,3745.0
+399,KBBRD,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,299.0,Integrated,4.1,3745.0
+400,Lenovo,Lenovo V15 G4 AMD Athlon Silver 7120U Laptop 8…,Core i3,512.0,16.0,Windows 11 Pro,25.99,Integrated,2.6,3745.0
+401,amazon basics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,449.0,Integrated,4.4,3745.0
+402,Dyazo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,299.0,Integrated,4.2,3745.0
+403,cimetech,HP Laptop,Core i3,512.0,16.0,"Linux, Chrome OS, Windows, Mac OS",996.0,Integrated,4.0,3745.0
+404,ADATA,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.348,Integrated,4.5,135.0
+405,ASUS,ASUS Zenbook 14 OLED,Core i3,16.0,16.0,Windows 11 Home,299.0,PCI Express,4.2,3745.0
+406,Lenovo,LOQ,Ryzen 5,512.0,24.0,Windows 11 Home,66.49,PCI Express,3.3,3745.0
+407,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,279.0,Integrated,4.2,3745.0
+408,Dell,Inspiron,Core i3,512.0,8.0,Windows 11 Home,36.43,Integrated,3.9,3745.0
+409,ASUS,ASUS Vivobook 16,Core i5-12500H,512.0,16.0,Windows 11 Home,53.99,Integrated,4.0,3745.0
+410,Artis,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,649.0,Integrated,3.8,3745.0
+411,ASUS,Vivobook 15,Core i3-1215U,512.0,16.0,Windows 11 Home,35.99,Integrated,4.0,3745.0
+412,SPIN CART,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,248.0,Integrated,4.4,3745.0
+413,ACER,Z2-493,Ryzen 3 3250U,512.0,8.0,Windows 11 Home,22.99,Integrated,5.0,3745.0
+414,HP,HP Laptop,Intel Core i5,512.0,16.0,Windows 11 Home,50.99,Integrated,4.0,3745.0
+415,ASUS,ASUS Vivobook 14,Core i3,512.0,8.0,Windows 11 Home,32.99,Integrated,3.8,3745.0
+416,TABLE MAGIC,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,2.35,Integrated,3.4,3745.0
+417,ASUS,ASUS Zenbook S 14,Intel Core Ultra 7,1000.0,16.0,Windows 11 Home,299.0,Integrated,5.0,3745.0
+418,ASUS,ASUS Zenbook 14,Intel Core Ultra 5,1000.0,16.0,Windows 11 Home,299.0,Integrated,2.0,3745.0
+419,Lenovo,Legion 5,Intel Core i7,1000.0,16.0,Windows 11 Home,299.0,PCI Express,4.8,3745.0
+420,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,339.0,Integrated,3.5,3745.0
+421,HP,HP ZBook Firefly 16 inch G11 Mobile Workstation PC,Intel Core Ultra 7,1000.0,32.0,Windows 11 Professional,299.0,Integrated,5.0,3745.0
+422,Portronics,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,258.0,Integrated,3.6,3745.0
+423,INSTAPLAY,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,210.0,Integrated,3.4,3745.0
+424,EDNITA,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,349.0,Integrated,4.3,3745.0
+425,iTronix,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,269.0,Integrated,4.0,3745.0
+426,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,309.0,Integrated,4.5,3745.0
+427,HP,14-ew1082TU,Others,512.0,16.0,Windows 11 Home,87.99,PCI Express,3.7,3745.0
+428,HP,HP Laptop,Ryzen 5,512.0,16.0,Windows 11 Home,42.99,Integrated,3.2,3745.0
+429,Artis,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,699.0,Integrated,3.6,3745.0
+430,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,399.0,Integrated,4.3,3745.0
+431,Lenovo,Lenovo V15 G4,Ryzen 7,512.0,16.0,Windows 11,40.99,Integrated,4.0,3745.0
+432,acer,Aspire 3,Core i5,512.0,16.0,Windows 11 Home,42.98,Integrated,4.2,3745.0
+433,Portronics,HP Laptop,Core i3,512.0,16.0,"Windows, macOS, Linux",998.0,Integrated,4.1,3745.0
+434,ASUS,ASUS Vivobook 16X,Intel Core i5,512.0,16.0,Windows 11 Home,68.99,Integrated,3.5,3745.0
+435,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,299.0,Integrated,3.9,3745.0
+436,Portronics,HP Laptop,Core i3,512.0,16.0,"Windows, macOS, Linux",294.0,Integrated,4.2,3745.0
+437,Lenovo,Lenovo ThinPad i5-6TH,Intel Core I5 6500,512.0,16.0,Windows 11,299.0,Integrated,3.2,3745.0
+438,Lenovo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.49,Integrated,4.2,3745.0
+439,Lenovo,IdeaPad,Athlon Silver 3050U,512.0,16.0,Windows 11 Home,26.99,Integrated,3.9,3745.0
+440,ASUS,ASUS Zenbook 14,Intel Core Ultra 7,1000.0,16.0,Windows 11 Home,299.0,Integrated,2.0,3745.0
+441,MSI,CreatorPro X17 HX A13VKS,Core i9,4000.0,64.0,Windows 11 Pro,299.0,PCI Express,3.5,3745.0
+442,Tukzer,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,259.0,Integrated,4.1,3745.0
+443,Lapcare,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,899.0,Integrated,3.4,3745.0
+444,Klenzmo,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,370.0,Integrated,4.3,3745.0
+445,HP,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,3.538,Integrated,4.4,3745.0
+446,ANCIARY,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,248.0,Integrated,3.6,3745.0
+447,STRIFF,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,129.0,Integrated,4.2,3745.0
+448,Maxelon,Charger for Dell 19.5V 3.34A 65W [MGJN9],Core i3,512.0,16.0,Windows 11 Home,1.424,Integrated,4.1,3745.0
+449,Lenovo,IdeaPad Slim 3 15IRU8,Intel Core i3,512.0,8.0,Windows 11 Home,37.75,Integrated,5.0,3745.0
+450,Lenovo,IdeaPad Slim 3,Ryzen 5,512.0,16.0,Windows 11 Home,42.49,Integrated,4.5,3745.0
+451,Dell,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,909.0,Integrated,3.8,3745.0
+452,Storite,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,298.0,Integrated,4.0,3745.0
+453,HP,15s-fy5010TU,Intel Core i3,256.0,8.0,Windows 11 Home,31.999,Integrated,4.1,3745.0
+454,PLIXIO,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.499,Integrated,4.3,3745.0
+455,GadgetBite,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,799.0,Integrated,5.0,3745.0
+456,HP,HP Laptop,Athlon,256.0,8.0,Windows 11 Home,22.95,Integrated,4.5,3745.0
+457,Lenovo,V15,Celeron,512.0,8.0,Windows,22.99,Integrated,3.8,3745.0
+458,JIN OFFICE,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,1.65,Integrated,4.2,3745.0
+459,TABLE MAGIC,HP Laptop,Core i3,512.0,16.0,Windows 11 Home,2.35,Integrated,3.4,3745.0
